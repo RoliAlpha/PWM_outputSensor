@@ -1,4 +1,5 @@
-"name": "PWM_outputSensor",
+{
+  "name": "PWM_outputSensor",
   "keywords": "arduino, sensor, ardusensorplatform framework",
   "description": "two output pin,one indicates Positive or negative polarity,the other converts the analog value(0~10) to pwm output(digital output 0~229)",
   "repository":
@@ -36,3 +37,4 @@
   "version": "1.2.0",
   "frameworks": "arduino",
   "platforms": "*"
+}
