@@ -1,0 +1,38 @@
+"name": "PWM_outputSensor",
+  "keywords": "arduino, sensor, ardusensorplatform framework",
+  "description": "two output pin,one indicates Positive or negative polarity,the other converts the analog value(0~10) to pwm output(digital output 0~229)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/RoliAlpha/PWM_outputSensor.git"
+  },
+  "authors": 
+  [
+    {
+      "name": "RoliAlpha",
+      "email": "652107085@qq.com",
+      "url": "http://www.milesburton.com",
+      "maintainer": true
+    },
+    {
+      "name": "zhengwei",
+      "email": "652107085@qq.com"
+    },
+    {
+      "name": "wuqiqi",
+      "email": "652107085@qq.com"
+    },
+    {
+      "name": "wangyuxing",
+      "email": "652107085@qq.com"
+    }
+  ],
+   "dependencies":
+  {
+    "name": "ArduSensorPlatformCoreBase",
+    "authors": "RoliAlpha",
+    "frameworks": "arduino"
+  },
+  "version": "1.2.0",
+  "frameworks": "arduino",
+  "platforms": "*"
